@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyImageView</string>
+    <string name="item_image">item image</string>
+    <string name="image_item">Image Item</string>
+</resources>
